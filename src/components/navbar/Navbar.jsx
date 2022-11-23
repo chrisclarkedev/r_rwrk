@@ -14,9 +14,17 @@ const Navbar = () => {
         <div className="rwrks__navbar-links_container">
           <p>
             <a href="#home">Home</a>
+          </p>
+          <p>
             <a href="#rwkrs">What is RWRKS?</a>
+          </p>
+          <p>
             <a href="#possible">Open AI</a>
+          </p>
+          <p>
             <a href="#features">Case Study</a>
+          </p>
+          <p>
             <a href="#blog">Library</a>
           </p>
         </div>
