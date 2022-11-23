@@ -1,0 +1,22 @@
+.rwrks__navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 6rem;
+}
+
+.rwrks__navbar-links {
+  flex: 1;
+  display: flex;
+  justify-content: 'flex-start';
+  align-items: center;
+}
+
+.rwrks__navbar-links_logo {
+  margin-right: 2rem;
+}
+
+.rwrks__navbar-links_logo img {
+  width: 4rem;
+  height: 4rem;
+}
