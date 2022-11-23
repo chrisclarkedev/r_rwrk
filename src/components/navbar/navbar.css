@@ -1,3 +1,4 @@
+/* NAVBAR STYLING */
 .rwrks__navbar {
   display: flex;
   justify-content: space-between;
@@ -16,7 +17,32 @@
   margin-right: 2rem;
 }
 
+/* // STYLING FOR LOGO IMAGE */
 .rwrks__navbar-links_logo img {
   width: 3rem;
   height: 3rem;
+}
+
+.rwrks__navbar-links_container {
+  display: flex;
+  flex-direction: row;
+}
+
+.rwrks__navbar-sign {
+  display: flex;
+  justify-content: flex;
+  align-items: center;
+}
+
+.rwrks__navbar-links_container p,
+.rwrks__navbar-sign p,
+.rwrks__navbar-menu_container p {
+  color: #fff;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: capitalize;
+  margin: 0 1rem;
+  cursor: pointer;
 }
