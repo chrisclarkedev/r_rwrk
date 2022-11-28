@@ -61,3 +61,78 @@
   outline: none;
   cursor: pointer;
 }
+
+/* STYLING FOR MOBILE */
+
+.rwrks__navbar-menu {
+  margin-left: 1rem;
+  display: none;
+  position: relative;
+}
+
+.rwkrs__navbar-menu svg {
+  cursor: pointer;
+}
+
+.rwrks__navbar-menu_container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+
+  text-align: end;
+  background: rgb(31, 30, 30);
+  padding: 2rem;
+  position: absolute;
+  top: 40px;
+  right: 0;
+  margin-top: 1rem;
+  min-width: 210px;
+  border-radius: 5px;
+  box-shadow: 0 0 5 rgba(0, 0, 0, 0.2);
+}
+
+.rwrks__navbar-menu_container p {
+  margin: 1rem 0;
+}
+
+.rwrks__navbar-menu_container-links-sign {
+  display: none;
+}
+
+/* MEDIA QUERY */
+
+/* TABLET  */
+@media screen and (max-width: 1050px) {
+  .rwrks__navbar-links_container {
+    display: none;
+  }
+
+  .rwrks__navbar-menu {
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .rwrks__navbar {
+    padding: 2rem 4rem;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .rwrks__navbar {
+    padding: 2rem;
+  }
+
+  /* REMOVES THE SIGN UP / SIGN IN BUTTONS */
+  .rwrks__navbar-sign {
+    display: none;
+  }
+
+  .rwrks__navbar-menu_container {
+    top: 20px;
+  }
+  .rwrks__navbar-menu_container-links-sign {
+    display: block;
+  }
+}
