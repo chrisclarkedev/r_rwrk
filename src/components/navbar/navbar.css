@@ -135,4 +135,17 @@
   .rwrks__navbar-menu_container-links-sign {
     display: block;
   }
+  button {
+    padding: 0.5rem 1rem;
+    color: #fff;
+    background: #085405;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+  }
 }
