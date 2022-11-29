@@ -20,8 +20,12 @@
 :root {
   --font-family: 'Manrope', sans-serif;
 
-  --gradient-text: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
+  /* --gradient-text: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%); */
+
+  /* GRADIENT TESTER */
+  --gradient-text: linear-gradient(89.97deg, #8efa67 1.84%, #f1e219 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #8efa67 -13.86%, #f1e219 99.55%);
 
   --color-bg: #000000;
   --color-footer: #031b34;

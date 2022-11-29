@@ -37,7 +37,7 @@
 .rwrks__navbar-links_container p,
 .rwrks__navbar-sign p,
 .rwrks__navbar-menu_container p {
-  color: #fff;
+  color: whitesmoke;
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 18px;
@@ -50,7 +50,7 @@
 .rwrks__navbar-sign button,
 .rwkrs__navbar-menu_container button {
   padding: 0.5rem 1rem;
-  color: #fff;
+  color: whitesmoke;
   background: #085405;
   font-family: var(--font-family);
   font-weight: 500;

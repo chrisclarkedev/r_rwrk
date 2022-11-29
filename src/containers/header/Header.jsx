@@ -16,7 +16,7 @@ const Header = () => {
           perspiciatis ad, odit eaque, consequuntur dignissimos corrupti
           temporibus at provident repudiandae rerum suscipit!
         </p>
-        <div className="rwrks__header-cntent__input">
+        <div className="rwrks__header-content__input">
           <input type="email" placeholder="Your Email Address"></input>
           <button type="button">Get Started</button>
         </div>
@@ -25,7 +25,7 @@ const Header = () => {
           <p>1,200 people have requested access a visit in last 24 hours</p>
         </div>
         <div className="rwrks__header-image">
-          {/* <img src={ai} alt="ai" /> */}
+          <img src={ai} alt="ai" />
         </div>
       </div>
     </div>
