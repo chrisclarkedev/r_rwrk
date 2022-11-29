@@ -26,6 +26,49 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 27px;
-
   color: whitesmoke;
+
+  margin-top: 1.5rem;
+}
+
+.rwrks__header-content__input {
+  width: 100%;
+  margin: 2rem 0 1rem;
+
+  display: flex;
+}
+
+.rwrks__header-content__input input {
+  flex: 2;
+  width: 100%;
+  min-height: 50px;
+  font-size: 20px;
+  line-height: 27px;
+  font-family: var(--font-family);
+  background: rgb(57, 57, 57);
+  border: 2px solid rgb(57, 57, 57);
+  padding: 0 1rem;
+  outline: none;
+  color: #fff;
+  /* border-top-right-radius: 5px; */
+  /* border-bottom-right-radius: 5px; */
+}
+
+.rwrks__header-content__input button {
+  flex: 0.6;
+  width: 100%;
+  min-height: 50px;
+  font-family: var(--font-family);
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+  background: #085405;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  padding: 0 1rem;
+  border: none;
+
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
 }

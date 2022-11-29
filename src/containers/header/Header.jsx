@@ -25,7 +25,7 @@ const Header = () => {
           <p>1,200 people have requested access a visit in last 24 hours</p>
         </div>
         <div className="rwrks__header-image">
-          <img src={ai} alt="ai" />
+          {/* <img src={ai} alt="ai" /> */}
         </div>
       </div>
     </div>
