@@ -24,11 +24,9 @@
   --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%); */
 
   /* GRADIENT TESTER */
-  /* --gradient-text: linear-gradient(89.97deg, #399218 1.84%, #f1e219 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #399218 -13.86%, #f1e219 99.55%); */
 
-  --gradient-text: linear-gradient(89.97deg, #085405 1.84%, #f1e219 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #085405 -13.86%, #f1e219 99.55%);
+  --gradient-text: linear-gradient(89.97deg, #399218 1.84%, #f1e219 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #399218 -13.86%, #f1e219 99.55%);
 
   --color-bg: #000000;
   --color-footer: #031b34;

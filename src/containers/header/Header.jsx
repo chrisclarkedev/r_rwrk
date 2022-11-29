@@ -11,10 +11,10 @@ const Header = () => {
           Build your "Dream Project" with the use of RWRKS OpenAI
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis
-          sapiente quidem praesentium! Mollitia ea illo eligendi nesciunt,
-          perspiciatis ad, odit eaque, consequuntur dignissimos corrupti
-          temporibus at provident repudiandae rerum suscipit!
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam,
+          minima accusamus eveniet quaerat sed eligendi, nesciunt nihil aliquid
+          id iusto est. Sunt, eaque ad quis eligendi suscipit quibusdam odio
+          pariatur.
         </p>
         <div className="rwrks__header-content__input">
           <input type="email" placeholder="Your Email Address"></input>
@@ -24,9 +24,9 @@ const Header = () => {
           <img src={people} alt="people" />
           <p>1,200 people have requested access a visit in last 24 hours</p>
         </div>
-        <div className="rwrks__header-image">
-          {/* <img src={ai} alt="ai" /> */}
-        </div>
+      </div>
+      <div className="rwrks__header-image">
+        <img src={ai} alt="ai" />
       </div>
     </div>
   );
