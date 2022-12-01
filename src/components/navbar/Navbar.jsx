@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '../../assets/logo1.png';
+import logo from '../../assets/logo.png';
 import './navbar.css';
 
 // Creation of Menu component to be used in both desktop and mobile viewing
