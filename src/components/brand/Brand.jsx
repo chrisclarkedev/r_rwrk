@@ -12,13 +12,13 @@ const Brand = () => {
         <img src={slack} alt="slack" />
       </div>
       <div>
+        <img src={shopify} alt="shopify" />
+      </div>
+      <div>
         <img src={atlassian} alt="atlassian" />
       </div>
       <div>
         <img src={dropbox} alt="dropbox" />
-        <div>
-          <img src={shopify} alt="shopify" />
-        </div>
       </div>
     </div>
   );
