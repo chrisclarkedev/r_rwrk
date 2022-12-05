@@ -7,8 +7,8 @@ const WhatRWRK = () => {
     <div className="rwrks__whatrwrks section__margin" id="rwrks">
       <div className="rwrks__whatrwrks-feature">
         <Feature
-          title="Why isnt this working"
-          text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta et, adipisci rerum nesciunt debitis itaque harum modi aperiam nihil fugiat unde, nulla asperiores sit minus perspiciatis dolores. Aliquam, quas ipsam?"
+          title="What is RWRKS"
+          text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta et, adipisci rerum nesciunt debitis itaque harum modi aperiam nihil fugiat unde, nulla asperiores sit minus perspiciatis dolores. Aliquam, quas ipsam?"
         />
       </div>
       <div className="rwrks__whatrwkrs-heading">
@@ -20,15 +20,15 @@ const WhatRWRK = () => {
       <div className="rwrks__whatrwkrs-container">
         <Feature
           title="Chatbots"
-          text="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          // text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
         />
         <Feature
           title="Knowledgebase"
-          text="Nibh sed pulvinar proin gravida hendrerit. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Non arcu risus quis varius quam quisque. "
+          // text="Nibh sed pulvinar proin gravida hendrerit. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Non arcu risus quis varius quam quisque. "
         />
         <Feature
           title="Eduation"
-          text="Amet mauris commodo quis imperdiet massa. Sagittis eu volutpat odio facilisis. Id aliquet risus feugiat in ante metus dictum. "
+          // text="Amet mauris commodo quis imperdiet massa. Sagittis eu volutpat odio facilisis. Id aliquet risus feugiat in ante metus dictum. "
         />
       </div>
     </div>
