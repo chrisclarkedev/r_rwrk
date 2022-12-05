@@ -9,7 +9,7 @@ const WhatRWRK = () => {
         <Feature />
       </div>
       <div className="rwrks__whatrwkrs-heading">
-        <h1 className="gradient-text">
+        <h1 className="gradient__text">
           Everything you have imagined is now possible
         </h1>
         <p>Explore the library</p>

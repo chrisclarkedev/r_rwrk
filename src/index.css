@@ -28,8 +28,8 @@
   --gradient-text: linear-gradient(89.97deg, #399218 1.84%, #f1e219 102.67%);
   --gradient-bar: linear-gradient(103.22deg, #399218 -13.86%, #f1e219 99.55%);
 
-  /* --color-bg: #1c1a1a; */
-  --color-bg: #043304;
+  --color-bg: rgba(0, 0, 0, 1);
+  /* --color-bg: #043304; */
   --color-footer: #f9f4c4;
   --color-blog: #042c54;
   --color-text: #81afdd;
