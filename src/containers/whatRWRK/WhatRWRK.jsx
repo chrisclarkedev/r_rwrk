@@ -10,7 +10,7 @@ const WhatRWRK = () => {
       </div>
       <div className="rwrks__whatrwkrs-heading">
         <h1 className="gradient__text">
-          Everything you have imagined is now possible
+          Any and everything you have imagined is now possible
         </h1>
         <p>Explore the library</p>
       </div>
