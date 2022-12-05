@@ -1,0 +1,12 @@
+.rwrks__whatrwrks {
+  display: flex;
+  flex-direction: column;
+
+  padding: 2rem;
+  background: rgb(219, 212, 140);
+  background: linear-gradient(
+    135deg,
+    rgba(219, 212, 140, 1) 85%,
+    rgba(249, 244, 196, 1) 100%
+  );
+}
