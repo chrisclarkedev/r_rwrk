@@ -20,15 +20,15 @@ const WhatRWRK = () => {
       <div className="rwrks__whatrwkrs-container">
         <Feature
           title="Chatbots"
-          // text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
         />
         <Feature
           title="Knowledgebase"
-          // text="Nibh sed pulvinar proin gravida hendrerit. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Non arcu risus quis varius quam quisque. "
+          text="Nibh sed pulvinar proin gravida hendrerit. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Non arcu risus quis varius quam quisque."
         />
         <Feature
-          title="Eduation"
-          // text="Amet mauris commodo quis imperdiet massa. Sagittis eu volutpat odio facilisis. Id aliquet risus feugiat in ante metus dictum. "
+          title="Education"
+          text="Amet mauris commodo quis imperdiet massa. Sagittis eu volutpat odio facilisis. Id aliquet risus feugiat in ante metus dictum."
         />
       </div>
     </div>

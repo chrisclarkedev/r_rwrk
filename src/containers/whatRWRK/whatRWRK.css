@@ -11,7 +11,10 @@
   );
 }
 
-.rwrks__whatrwrks-feature {
+.rwrks__whatrwrks-feature-title {
+  font-size: 18px;
+}
+/* .rwrks__whatrwrks-feature {
   display: flex;
 }
 
@@ -21,7 +24,7 @@
 
 .rwrks__whatrwkrs-feature .rwrks__features-container_feature-text {
   max-width: 700px;
-}
+} */
 
 .rwrks__whatrwkrs-heading {
   display: flex;
@@ -49,10 +52,12 @@
   cursor: pointer;
 }
 
-.rwrks__whatrwrks-container {
-  display: flex;
+.rwrks__whatrwkrs-container {
   flex-wrap: wrap;
+  display: flex;
   flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
 
   margin-top: 2rem;
 }
