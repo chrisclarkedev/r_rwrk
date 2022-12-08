@@ -1,18 +1,17 @@
 import React from 'react';
 import './feature.css';
+// import './feature2.css';
 
-const Feature = ({ title, text }) => {
-  return (
-    <div className="rwrks__features-container__feature">
-      <div className="rwrks__features-container__feature-title">
-        <div />
-        <h1>{title}</h1>
-      </div>
-      <div className="rwrks__features-container_feature-text">
-        <p>{text}</p>
-      </div>
+const Feature = ({ title, text }) => (
+  <div className="rwrks__features-container__feature">
+    <div className="rwrks__features-container__feature-title">
+      <div />
+      <h1>{title}</h1>
     </div>
-  );
-};
+    <div className="rwrks__features-container_feature-text">
+      <p>{text}</p>
+    </div>
+  </div>
+);
 
 export default Feature;
