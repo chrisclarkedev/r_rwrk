@@ -7,8 +7,18 @@ const WhatRWRK = () => (
     <div className="rwrks__whatrwrks-feature">
       <Feature
         title="What is RWRKS"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+        // text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
       />
+      <p>
+        We so opinion friends me message as delight. Whole front do of plate
+        heard oh ought. His defective nor convinced residence own. Connection
+        has put impossible own apartments boisterous. At jointure ladyship an
+        insisted so humanity he. Friendly bachelor entrance to on by. Lorem
+        ipsum dolor sit amet, consectetur adipisicing elit. Accusamus in
+        voluptas rem tempora? Id modi quaerat dignissimos ducimus. Soluta alias
+        officiis consectetur officia distinctio fugiat architecto nulla
+        molestias ipsa labore.
+      </p>
     </div>
     <div className="rwrks__whatrwrks-heading">
       <h1 className="gradient__text">
@@ -32,5 +42,4 @@ const WhatRWRK = () => (
     </div>
   </div>
 );
-
 export default WhatRWRK;

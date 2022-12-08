@@ -49,15 +49,15 @@
 }
 
 @media screen and (max-width: 550px) {
-  .rwrks__feature-container__feature-title h1 {
+  .rwrks__features-container__feature-title h1 {
     font-size: 14px;
     line-height: 22px;
   }
-  .rwrks__feature-container__feature-title p {
+  .rwrks__features-container__feature-title p {
     font-size: 12px;
     line-height: 20px;
   }
-  .rwrks__feature-container__feature {
+  .rwrks__features-container__feature {
     margin: 1rem 0;
   }
 }
