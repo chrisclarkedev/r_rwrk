@@ -1,6 +1,5 @@
 import React from 'react';
 import './feature.css';
-// import './feature2.css';
 
 const Feature = ({ title, text }) => (
   <div className="rwrks__features-container__feature">
