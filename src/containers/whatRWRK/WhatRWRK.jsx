@@ -3,7 +3,7 @@ import Feature from '../../components/feature/Feature';
 import './whatRWRK.css';
 
 const WhatRWRK = () => (
-  <div className="rwrks__whatrwrks section__margin" id="rwrks">
+  <div className="rwrks__whatrwrks section__margin" id="rwkrs">
     <div className="rwrks__whatrwrks-feature">
       <Feature
         title="What is RWRKS"

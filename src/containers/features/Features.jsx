@@ -4,7 +4,7 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Becoming an active trend',
+    title: 'Becoming anti active trend',
     text: 'Dictum varius duis at consectetur. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Nunc aliquet bibendum enim facilisis gravida neque convallis a.',
   },
   {
