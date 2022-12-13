@@ -29,7 +29,7 @@ const Features = () => {
           Future is Now You Just Need To Realize It. Step into the Future Today,
           Make it Happen.
         </h1>
-        <p>Request Early Access to Get Started</p>
+        <p>Request Early Access to Get Started Right Away!</p>
       </div>
       <div className="rwrks__features-container">
         {featuresData.map((item, index) => (

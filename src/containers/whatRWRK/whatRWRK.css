@@ -1,7 +1,3 @@
-.rwrks_para p {
-  margin-left: 5rem;
-  color: whitesmoke;
-}
 .rwrks__whatrwrks {
   display: flex;
   flex-direction: column;
@@ -19,10 +15,12 @@
   display: flex;
 }
 
+/* Customizing feature component as per needs */
 .rwrks__whatrwrks-feature .rwrks__features-container__feature {
   margin: 0;
 }
 
+/* Customizing feature component as per needs */
 .rwrks__whatrwrks-feature .rwrks__features-container_feature-text {
   max-width: 700px;
 }
@@ -40,8 +38,8 @@
   font-size: 34px;
   line-height: 45px;
   font-weight: 800;
-  max-width: 510px;
   font-family: var(--font-family);
+  max-width: 510px;
 }
 
 .rwrks__whatrwrks-heading p {
@@ -57,10 +55,12 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+
   margin-top: 2rem;
 }
 
-.rwrks__whatrwkrs-container .rwrks__features-container__feature {
+/* Customizing feature component as per needs */
+.rwrks__whatrwrks-container .rwrks__features-container__feature {
   flex: 1;
   margin: 1rem;
   min-width: 210px;
@@ -68,7 +68,8 @@
   flex-direction: column;
 }
 
-.rwrks__whatrwkrs-container .rwrks__features-container_feature-text {
+/* Customizing feature component as per needs */
+.rwrks__whatrwrks-container .rwrks__features-container_feature-text {
   margin-top: 0.5rem;
 }
 
@@ -85,10 +86,12 @@
 }
 
 @media screen and (max-width: 650px) {
+  /* Customizing feature component as per needs */
   .rwrks__whatrwrks-feature .rwrks__features-container__feature {
     flex-direction: column;
   }
 
+  /* Customizing feature component as per needs */
   .rwrks__whatrwrks-feature .rwrks__features-container_feature-text {
     margin-top: 0.5rem;
   }
@@ -100,7 +103,8 @@
 }
 
 @media screen and (max-width: 350px) {
-  .rwrks__whatrwkrs-container .rwrks__features-container__feature {
+  /* Customizing feature component as per needs */
+  .rwrks__whatrwrks-container .rwrks__features-container__feature {
     margin: 1rem 0;
     min-width: 100%;
   }
