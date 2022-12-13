@@ -2,7 +2,7 @@ import React from 'react';
 import {
   Footer,
   Blog,
-  Possible,
+  Possibility,
   Features,
   WhatRWRK,
   Header,
@@ -20,7 +20,7 @@ const App = () => (
     <Brand />
     <WhatRWRK />
     <Features />
-    <Possible />
+    <Possibility />
     <CTA />
     <Blog />
     <Footer />
