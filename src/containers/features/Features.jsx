@@ -4,20 +4,20 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Becoming the active trend',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate praesentium aliquam et porro quidem. Nesciunt cum debitis sequi tempore incidunt, quod cumque delectus inventore, animi voluptatem quia ipsa quas quaerat?',
+    title: 'Becoming an active trend',
+    text: 'Dictum varius duis at consectetur. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Nunc aliquet bibendum enim facilisis gravida neque convallis a.',
   },
   {
     title: 'Improving trust instantly',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate praesentium aliquam et porro quidem. Nesciunt cum debitis sequi tempore incidunt, quod cumque delectus inventore, animi voluptatem quia ipsa quas quaerat?',
+    text: 'In ornare quam viverra orci sagittis eu. In metus vulputate eu scelerisque felis. Diam vulputate ut pharetra sit. Sit amet facilisis magna etiam tempor orci eu lobortis elementum. Purus sit amet volutpat consequat mauris nunc.',
   },
   {
     title: 'Messaging Daily',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate praesentium aliquam et porro quidem. Nesciunt cum debitis sequi tempore incidunt, quod cumque delectus inventore, animi voluptatem quia ipsa quas quaerat?',
+    text: 'Vel pretium lectus quam id. Sed sed risus pretium quam vulputate. Quisque id diam vel quam elementum. Purus sit amet volutpat consequat. Tempor commodo ullamcorper a lacus vestibulum sed arcu.',
   },
   {
     title: 'Using technology to your benefit',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate praesentium aliquam et porro quidem. Nesciunt cum debitis sequi tempore incidunt, quod cumque delectus inventore, animi voluptatem quia ipsa quas quaerat?',
+    text: 'Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Tristique sollicitudin nibh sit amet. In pellentesque massa placerat duis ultricies lacus sed.',
   },
 ];
 

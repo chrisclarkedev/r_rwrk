@@ -7,7 +7,7 @@ const WhatRWRK = () => (
     <div className="rwrks__whatrwrks-feature">
       <Feature
         title="What is RWRKS"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+        text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta eum, vitae eos fugit ut sit atque necessitatibus soluta maiores nisi, quas possimus exercitationem illum aperiam sint voluptate iure quae aspernatur! Ultrices gravida dictum fusce ut placerat orci. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Purus sit amet volutpat consequat mauris nunc congue nisi. Cursus risus at ultrices mi tempus imperdiet nulla. Purus non enim praesent elementum."
       />
     </div>
     <div className="rwrks__whatrwrks-heading">
