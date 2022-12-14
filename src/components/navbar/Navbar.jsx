@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '../../assets/logo.png';
+import logo from '../../assets/logo1.png';
 import './navbar.css';
 
 // Creation of Menu component to be used in both desktop and mobile viewing
@@ -13,7 +13,7 @@ const Menu = () => (
       <a href="#rwkrs">What is RWRKS?</a>
     </p>
     <p>
-      <a href="#possible">Open AI</a>
+      <a href="#possibility">Open AI</a>
     </p>
     <p>
       <a href="#features">Case Study</a>
