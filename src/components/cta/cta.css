@@ -8,12 +8,13 @@
   margin: 4rem;
   border-radius: 1rem;
   /* background: var(--gradient-bar); */
-  background: #7cac52;
+  /* background: #7cac52; */
   /* background: #cff0c5; */
   /* background: #e6ce6f; */
   /* background: #fbface; */
   /* background: #78a464; */
   /* background: greenyellow; */
+  background: whitesmoke;
 }
 
 .rwrks__cta-content p {
