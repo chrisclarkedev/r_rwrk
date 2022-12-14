@@ -10,7 +10,7 @@ const Possibility = () => (
     <div className="rwrks__possibility-content">
       <h4>Request Early Access to Get Started</h4>
       <h1 className="gradient__text">
-        The possibilities are <br /> beyond your imagination
+        Possibilities beyond your wildest imagination
       </h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam odit illum

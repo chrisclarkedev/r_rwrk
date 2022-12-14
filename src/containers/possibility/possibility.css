@@ -30,28 +30,39 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 30px;
-  color: whitesmoke;
+  color: #f1e219;
 }
 
 .rwrks__possibility-content h4:last-child {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: flex-start;
+  color: #f1e219;
 }
 .rwrks__possibility-content h1 {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: flex-start;
+  font-family: var(--font-family);
+  font-weight: 800;
+  font-size: 34px;
+  line-height: 45px;
+
+  margin: 1rem 0;
 }
 
 .rwrks__possibility-content p {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: flex-start;
+  font-family: var(--font-family);
+  font-size: 16px;
+  line-height: 30px;
+  color: whitesmoke;
+
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 950px) {
+  .rwrks__possibility {
+    flex-direction: column;
+  }
+  .rwrks__possibility-image {
+    margin: 1rem 0;
+  }
+
+  .rwrks__posibility-content {
+    margin-top: 2rem;
+  }
 }
