@@ -13,19 +13,19 @@ const Blog = () => {
         <div className="rwrks__blog-container_groupA">
           <Article
             imgUrl={blog05}
-            date="Dec 13, 2022"
+            date="Dec 24, 2022"
             title="RWRKS and Open AI is the future. Let's explore how it works."
           />
         </div>
         <div className="rwrks__blog-container_groupB">
           <Article
             imgUrl={blog02}
-            date="Dec 13, 2022"
+            date="Dec 5, 2022"
             title="RWRKS and Open AI is the future. Let's explore how it works."
           />
           <Article
             imgUrl={blog01}
-            date="Dec 13, 2022"
+            date="Dec 7, 2022"
             title="RWRKS and Open AI is the future. Let's explore how it works."
           />
           <Article
@@ -35,7 +35,7 @@ const Blog = () => {
           />
           <Article
             imgUrl={blog03}
-            date="Dec 13, 2022"
+            date="Dec 21, 2022"
             title="RWRKS and Open AI is the future. Let's explore how it works."
           />
         </div>
