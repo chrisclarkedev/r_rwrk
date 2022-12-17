@@ -16,7 +16,8 @@ const Footer = () => {
       <div className="rwrks__footer-links">
         <div className="rwrks__footer-links_logo">
           <img src={rwrksLogo} alt="logo" />
-          <p>191 Laurel St. New York, NY 10033, All Rights Reserved</p>
+          <p>191 Laurel St. New York, NY 10033,</p>
+          <p>All Rights Reserved</p>
         </div>
         <div className="rwrks__footer-links_div">
           <h4>Links</h4>
@@ -38,6 +39,7 @@ const Footer = () => {
           <p>rwrks@openai.net</p>
         </div>
       </div>
+
       <div className="rwrks__footer-copyright">
         <p>© 2022 RWRKS. All rights reserved.</p>
       </div>
