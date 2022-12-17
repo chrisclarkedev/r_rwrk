@@ -8,7 +8,7 @@ const Header = () => {
     <div className="rwrks__header section__padding" id="home">
       <div className="rwrks__header-content">
         <h1 className="gradient__text">
-          Build your "Dream Project" with the use of RWRKS OpenAI
+          Build Something "Amazing" with RWRKS OpenAI
         </h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam,
