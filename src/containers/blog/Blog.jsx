@@ -21,22 +21,22 @@ const Blog = () => {
           <Article
             imgUrl={blog02}
             date="Dec 5, 2022"
-            title="RWRKS and Open AI is the future. Let's explore how it works."
+            title="How RWRKS has fundamentally changed AI."
           />
           <Article
             imgUrl={blog01}
             date="Dec 7, 2022"
-            title="RWRKS and Open AI is the future. Let's explore how it works."
+            title="Augmented Reality in accordance with RWRKS does wonders!"
           />
           <Article
             imgUrl={blog04}
             date="Dec 13, 2022"
-            title="RWRKS and Open AI is the future. Let's explore how it works."
+            title="Future proofing technology in conjunction with RWRKS."
           />
           <Article
             imgUrl={blog03}
             date="Dec 21, 2022"
-            title="RWRKS and Open AI is the future. Let's explore how it works."
+            title="Incredible knowledgebase that allows users to customize UI for ease of use."
           />
         </div>
       </div>
