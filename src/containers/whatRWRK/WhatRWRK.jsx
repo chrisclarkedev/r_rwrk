@@ -18,17 +18,17 @@ const WhatRWRK = () => (
     </div>
     <div className="rwrks__whatrwrks-container">
       <Feature
-        title="Chatbots"
+        title="Education"
         text="Lorem
         ipsum dolor sit amet, consectetur adipisicing elit. Accusamus in
         voluptas rem tempora?"
       />
       <Feature
-        title="Education"
+        title="AR Support"
         text="Nibh sed pulvinar proin gravida hendrerit. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Non arcu risus quis varius quam quisque."
       />
       <Feature
-        title="Knowlegebase"
+        title="Cognitive Content"
         text="Amet mauris commodo quis imperdiet massa. Sagittis eu volutpat odio facilisis. Id aliquet risus feugiat in ante metus dictum."
       />
     </div>

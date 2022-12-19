@@ -22,7 +22,7 @@ const Header = () => {
         </div>
         <div className="rwrks__header-content__people">
           <img src={people} alt="people" />
-          <p>1,200 people have requested access a visit in last 24 hours</p>
+          <p>2,900 people have requested access to visit in last 24 hours</p>
         </div>
       </div>
       <div className="rwrks__header-image">
