@@ -41,7 +41,7 @@ const Footer = () => {
       </div>
 
       <div className="rwrks__footer-copyright">
-        <p>© 2022 RWRKS. All rights reserved.</p>
+        <p>© 2023 RWRKS. All rights reserved.</p>
       </div>
     </div>
   );
